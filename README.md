@@ -5,7 +5,7 @@ Made a script to check egg hatching statistics for FOREST 1 EGG in punch simulat
 
 **Results** <br>
 
-**FOREST EGG**
+**FOREST EGG** <br>
 Original stats are 30% Uncommon, 40% Rare, 29% Mythic, 1% Legendary
 
 **96% Luck** <br>
@@ -24,7 +24,7 @@ Original stats are 30% Uncommon, 40% Rare, 29% Mythic, 1% Legendary
 215 Mythic (30%) <br>
 2 Legendary (<1%) <br>
 
-**CAVE EGG**
+**CAVE EGG** <br>
 Original stats are 45% Common, 37% Uncommon, 15% Rare, 2% Mythic, 1% Legendary
 
 **116% Luck**<br>
