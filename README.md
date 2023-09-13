@@ -35,5 +35,13 @@ Original stats are 45% Common, 37% Uncommon, 15% Rare, 2% Mythic, 1% Legendary
 27 Mythic (2%) <br>
 16 Legendary (1%) <br>
 
+**421% Luck**<br>
+3650 eggs <br>
+
+1668 Common (46%) <br>
+1316 Uncommon (36%) <br>
+550 Rare (15%) <br>
+78 Mythic (2%) <br>
+38 Legendary (1%) <br>
 
 
