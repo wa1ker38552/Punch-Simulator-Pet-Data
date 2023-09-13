@@ -23,6 +23,14 @@ Original stats are 30% Uncommon, 40% Rare, 29% Mythic, 1% Legendary
 215 Mythic (30%) <br>
 2 Legendary (<1%) <br>
 
+**156% +x2 Luck** <br>
+910 eggs <br>
+
+261 Uncommon (29%) <br>
+372 Rare (41%) <br> 
+262 Mythic (29%) <br>
+14 Legendary (2%) <br>
+
 **CAVE EGG** <br>
 Original stats are 45% Common, 37% Uncommon, 15% Rare, 2% Mythic, 1% Legendary
 
