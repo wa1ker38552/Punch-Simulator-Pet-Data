@@ -1,0 +1,75 @@
+{
+	"FOREST": {
+		"STATS": {
+			"UNCOMMON": 0.3,
+			"RARE": 0.4,
+			"Mythic": 0.29,
+			"LEGENDARY": 0.01
+		},
+		"TESTS": [
+			{
+				"TOTAL_EGGS": 1455,
+				"TOTAL_LUCK": 1.96,
+				"RESULTS": {
+					"UNCOMMON": 437,
+					"RARE": 558,
+					"MYTHIC": 410,
+					"LEGENDARY": 20
+				}
+			},
+			{
+				"TOTAL_EGGS": 721,
+				"TOTAL_LUCK": 5.01,
+				"RESULTS": {
+					"UNCOMMON": 225,
+					"RARE": 279,
+					"MYTHIC": 215,
+					"LEGENDARY": 2
+				}
+			},
+			{
+				"TOTAL_EGGS": 910,
+				"TOTAL_LUCK": 4.56,
+				"RESULTS": {
+					"UNCOMMON": 261,
+					"RARE": 372,
+					"MYTHIC": 262,
+					"LEGENDARY": 14
+				}
+			}
+		]
+	},
+	"CAVE": {
+		"STATS": {
+			"COMMON": 0.45,
+			"UNCOMMON": 0.37,
+			"RARE": 0.15,
+			"Mythic": 0.02,
+			"LEGENDARY": 0.01
+		},
+		"TESTS": [
+			{
+				"TOTAL_EGGS": 1370,
+				"TOTAL_LUCK": 2.16,
+				"RESULTS": {
+					"COMMON": 575,
+					"UNCOMMON": 540,
+					"RARE": 212,
+					"MYTHIC": 27,
+					"LEGENDARY": 16
+				}
+			},
+			{
+				"TOTAL_EGGS": 3650,
+				"TOTAL_LUCK": 5.21,
+				"RESULTS": {
+					"COMMON": 1668,
+					"UNCOMMON": 1316,
+					"RARE": 550,
+					"MYTHIC": 78,
+					"LEGENDARY": 38
+				}
+			}
+		]
+	}
+}
