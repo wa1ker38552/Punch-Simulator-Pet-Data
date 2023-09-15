@@ -6,7 +6,7 @@ Made a script to check egg hatching statistics for FOREST 1 EGG in punch simulat
 Standard error =  `sqrt[p * (1 - p) / n]` <br>
 Margin of error =  `z * standard_error` <br>
 Trials = `n = (z^2 * p * (1 - p)) / margin_of_error^2`<br>
-where `p` is probability, `n` is number of trials, `z` is accuracy. You can subtract accuracy from 1 to find margin of error. <br>
+where `p` is probability, `n` is number of trials, `z` is accuracy. You can subtract accuracy from 1 to find margin of error. <br><br>
 To test legendary pet hatch chances, you only need to run 801 trials to determine probability with 90% accuracy or 10% margin of error
 
 ## RESULTS
