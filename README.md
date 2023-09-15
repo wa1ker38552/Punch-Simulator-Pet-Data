@@ -3,6 +3,12 @@ Statistics for pet hatching in Punch Simulator
 
 Made a script to check egg hatching statistics for FOREST 1 EGG in punch simulator. I had a feeling luck boosts did jack shit so I made a script to check by hatching eggs hundreds of times and getting the statistics for the probability of hatching each pet. The program uses pixel colors to locate and detect which pet was hatched. This script will not work on your computer. You have to edit the ratios so that they match the ones on you screen.
 
+Standard error =  `sqrt[p * (1 - p) / n]` <br>
+Margin of error =  `z * standard_error` <br>
+Trials = `n = (z^2 * p * (1 - p)) / margin_of_error^2`<br>
+where `p` is probability, `n` is number of trials, `z` is accuracy. You can subtract accuracy from 1 to find margin of error. <br>
+To test legendary pet hatch chances, you only need to run 801 trials to determine probability with 90% accuracy or 10% margin of error
+
 ## RESULTS
 **FOREST EGG** <br>
 Original stats are 30% Uncommon, 40% Rare, 29% Mythic, 1% Legendary
